@@ -64,4 +64,7 @@ Lembre-se de que o código fornece verificações para garantir que os números 
 
 Este exemplo chama a função somandoNumerosInteiros com o argumento 10 e imprime o resultado no console. O resultado será a soma de todos os números inteiros positivos menores que 10 que são divisíveis por 3 ou 5. Em seguida, os números divisíveis por 3 ou 5 são exibidos no console.
 
-<h3>Observação:</h3> Certifique-se de fornecer um número válido como argumento ao chamar a função somandoNumerosInteiros, pois a validação é realizada internamente antes de executar o cálculo.
+<h3>Observação:</h3> 
+Na linha 30, tem um console log que esta comentado, caso queira ver os números divisíveis por 3 e 5, sugiro descomentar esta linha.
+
+Certifique-se de fornecer um número válido como argumento ao chamar a função somandoNumerosInteiros, pois a validação é realizada internamente antes de executar o cálculo.
